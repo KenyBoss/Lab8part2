@@ -183,6 +183,7 @@ public class SalesItem
     }
     
     /*14.setUp and tearDown
+     * 15.Returns false
      *17.
      * 
      */
